@@ -224,6 +224,4 @@ logoutButton.setOnClickListener(new View.OnClickListener() {
                 }).show();
             }
         });
-
-
 ```
