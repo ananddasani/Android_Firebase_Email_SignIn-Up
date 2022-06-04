@@ -168,7 +168,7 @@ deleteUserButton = findViewById(R.id.deleteButton);
 
 user = FirebaseAuth.getInstance().getCurrentUser();
 
-logoutButton.setOnClickListener(new View.OnClickListener() {
+        logoutButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (FirebaseAuth.getInstance().getCurrentUser() != null) {
