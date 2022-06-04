@@ -1,6 +1,8 @@
 # Android_Firebase_Email_SignIn-Up
 App with SignIn, SignUp, Logout, Delete Account features
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 ## SignUp.java
 ```
 EditText fullName, email, password, confPassword;
